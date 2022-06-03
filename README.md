@@ -25,3 +25,20 @@ The data we got from glassdoor.com up to 1000 sample, and this what we got:
 ![alt text](webscraper.png)
 
 ## Data Cleaning
+
+In this part we cleaning the data we change and create column, this following change :
+
+- Remove rating in Company column
+- Make neew colum to describe salary estimate
+  - Minimal Salary
+  - Maximun salary
+  - Average salary
+- Create age company from founded
+- Colum for skill get form description
+  - python
+  - matlab
+  - spark
+  - sql
+- Simplified job title
+
+## Data Exploration
